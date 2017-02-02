@@ -18,6 +18,7 @@ UI/UX
 ======================
 Name | License | Demo
 --- | --- | ---
+[Hover](https://github.com/google/hover) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="https://raw.githubusercontent.com/matthew-carroll/hover/gh-pages/images/screenrecords/hover-demo-screenrecord.gif" width="49%">
 [Badger](https://github.com/volders/Badger) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="https://github.com/volders/Badger/blob/master/assets/example.png" width="49%">
 [Android-SwitchIcon](https://github.com/zagum/Android-SwitchIcon) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="https://github.com/zagum/Android-SwitchIcon/blob/master/art/sample.gif" width="49%">
 [DiagonalLayout](https://github.com/florent37/DiagonalLayout) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="https://raw.githubusercontent.com/florent37/DiagonalLayout/master/media/sample.gif" width="49%">
