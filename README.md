@@ -14,6 +14,13 @@ Name | Description
 [Bandhook Kotlin](https://github.com/antoniolg/Bandhook-Kotlin) | Showcase app using Kotlin.
 [Android Clean](https://github.com/dmilicic/android-clean-sample-app) | Sample app using Clean Architecture.
 
+Useful Dev Tools
+======================
+Name | License | Demo
+--- | --- | ---
+[Chuck](https://github.com/jgilfelt/chuck) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="https://raw.githubusercontent.com/jgilfelt/chuck/master/assets/chuck.gif" width="49%">
+[LeakCanary](https://github.com/square/leakcanary) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="https://github.com/square/leakcanary/blob/master/assets/screenshot.png" width="49%">
+
 UI/UX
 ======================
 Name | License | Demo
