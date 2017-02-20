@@ -23,6 +23,23 @@ Name | License | Demo
 [LeakCanary](https://github.com/square/leakcanary) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="https://github.com/square/leakcanary/blob/master/assets/screenshot.png" width="49%">
 [Zelezny](https://github.com/avast/android-butterknife-zelezny) [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="https://github.com/avast/android-butterknife-zelezny/blob/master/img/zelezny_animated.gif" width="49%">
 
+Free APIs
+======================
+Name | Description
+--- | --- 
+
+[ProgrammableWeb](https://www.programmableweb.com/) | Search for APIs
+[Public APIs](https://github.com/toddmotto/public-apis) | Github repo with many more APIs
+[Ebay](https://go.developer.ebay.com/) | Online auctions
+[Etsy](https://www.etsy.com/developers) | Online goods/store
+[Facebook](https://developers.facebook.com/) | Social media
+[Flickr](https://www.flickr.com/services/api/) | Photos
+[Google](https://developers.google.com/android/) | Google
+[Instagram](https://www.instagram.com/developer/) | Photos
+[TheMovieDb](https://www.themoviedb.org/documentation/api) | Movie and television
+[TicketMaster](http://developer.ticketmaster.com/) | Online ticket & events
+[Yelp](https://www.yelp.com/developers/) | Local food/businesses
+
 UI/UX
 ======================
 Name | License | Demo
