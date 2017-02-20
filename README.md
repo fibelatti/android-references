@@ -20,6 +20,7 @@ Name | Description
 --- | --- 
 [ProgrammableWeb](https://www.programmableweb.com/) | Search for APIs
 [Public APIs](https://github.com/toddmotto/public-apis) | Github repo with many more APIs
+[Yahoo](/Applications/Sublime\ Text.app/Contents/SharedSupport/bin/subl) | Countries and other administrative areas
 [Ebay](https://go.developer.ebay.com/) | Online auctions
 [Etsy](https://www.etsy.com/developers) | Online goods/store
 [Facebook](https://developers.facebook.com/) | Social media
