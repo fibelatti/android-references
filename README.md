@@ -9,7 +9,6 @@ Architecture
 ======================
 Name | Description
 --- | --- 
-
 [ActivityFragmentMVP](https://github.com/spengilley/ActivityFragmentMVP) | A demonstration of handling Activities and Fragments using Dagger dependency injection framework.
 [Android Clean](https://github.com/dmilicic/android-clean-sample-app) | Sample app using Clean Architecture.
 [Bandhook Kotlin](https://github.com/antoniolg/Bandhook-Kotlin) | Showcase app using Kotlin.
@@ -21,13 +20,12 @@ Name | License | Demo
 --- | --- | ---
 [Chuck](https://github.com/jgilfelt/chuck) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="https://raw.githubusercontent.com/jgilfelt/chuck/master/assets/chuck.gif" width="49%">
 [LeakCanary](https://github.com/square/leakcanary) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="https://github.com/square/leakcanary/blob/master/assets/screenshot.png" width="49%">
-[Zelezny](https://github.com/avast/android-butterknife-zelezny) [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="https://github.com/avast/android-butterknife-zelezny/blob/master/img/zelezny_animated.gif" width="49%">
+[Zelezny](https://github.com/avast/android-butterknife-zelezny) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="https://github.com/avast/android-butterknife-zelezny/blob/master/img/zelezny_animated.gif" width="49%">
 
 Free APIs
 ======================
 Name | Description
 --- | --- 
-
 [ProgrammableWeb](https://www.programmableweb.com/) | Search for APIs
 [Public APIs](https://github.com/toddmotto/public-apis) | Github repo with many more APIs
 [Ebay](https://go.developer.ebay.com/) | Online auctions
