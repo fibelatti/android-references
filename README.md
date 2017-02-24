@@ -36,6 +36,7 @@ Useful Dev Tools
 Name | License | Demo
 --- | --- | ---
 [Chuck](https://github.com/jgilfelt/chuck) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="https://raw.githubusercontent.com/jgilfelt/chuck/master/assets/chuck.gif" width="49%">
+[Dart](https://github.com/f2prateek/dart) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | Extras injection
 [LeakCanary](https://github.com/square/leakcanary) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="https://github.com/square/leakcanary/blob/master/assets/screenshot.png" width="49%">
 [Zelezny](https://github.com/avast/android-butterknife-zelezny) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="https://github.com/avast/android-butterknife-zelezny/blob/master/img/zelezny_animated.gif" width="49%">
 
