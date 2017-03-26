@@ -37,6 +37,7 @@ Name | License | Demo
 --- | --- | ---
 [Chuck](https://github.com/jgilfelt/chuck) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="https://raw.githubusercontent.com/jgilfelt/chuck/master/assets/chuck.gif" width="49%">
 [Dart](https://github.com/f2prateek/dart) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | Extras injection
+[GsonFormat](https://github.com/zzz40500/GsonFormat) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="https://camo.githubusercontent.com/0d45c79c54ab57f6efe31e9019b11d93974fa039/687474703a2f2f75706c6f61642d696d616765732e6a69616e7368752e696f2f75706c6f61645f696d616765732f3136363836362d666639646333333661663732643764372e6769663f696d6167654d6f6772322f6175746f2d6f7269656e742f7374726970" width="49%">
 [LeakCanary](https://github.com/square/leakcanary) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="https://github.com/square/leakcanary/blob/master/assets/screenshot.png" width="49%">
 [Zelezny](https://github.com/avast/android-butterknife-zelezny) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="https://github.com/avast/android-butterknife-zelezny/blob/master/img/zelezny_animated.gif" width="49%">
 
