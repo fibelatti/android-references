@@ -1,9 +1,17 @@
-List of Android UI/UX Libraries
+Android References & Libraries
 ==================
 
-This list is inspired by [Awesome Android UI](https://github.com/wasabeef/awesome-android-ui) list, make sure to check it out.
+This list puts together great Android repositories and libraries.
 
 As my list of starred repos was growing I decided to create this list to make it easier to find the libraries I enjoy the most.
+
+Showcase
+======================
+Name | Description
+--- | --- 
+[Memes](https://github.com/MojRoid/memes) | MVVM example app. Quick blog post detailing the layers: https://medium.com/@mojroid/clean-architecture-on-android-using-feature-modules-mvvm-view-slices-and-kotlin-e9ed18e64d83
+[Theatre](https://github.com/andremion/Theatre) | Pet project using Clean Architecture + MVVM + Reactive Extensions + Android Architecture Components. The data is fetched from LondonTheatreDirect API. 🎭
+[YoutubeUX](https://github.com/burhanrashid52/YoutubeUX) | With MVVM Architecture pattern using Android Architecture Components This is a sample app demonstrating Youtube player animation using constraint layout
 
 Architecture
 ======================
@@ -39,6 +47,7 @@ Name | License | Demo
 [Chuck](https://github.com/jgilfelt/chuck) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="https://raw.githubusercontent.com/jgilfelt/chuck/master/assets/chuck.gif" width="49%">
 [Dart](https://github.com/f2prateek/dart) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | Extras injection
 [GsonFormat](https://github.com/zzz40500/GsonFormat) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="https://camo.githubusercontent.com/0d45c79c54ab57f6efe31e9019b11d93974fa039/687474703a2f2f75706c6f61642d696d616765732e6a69616e7368752e696f2f75706c6f61645f696d616765732f3136363836362d666639646333333661663732643764372e6769663f696d6167654d6f6772322f6175746f2d6f7269656e742f7374726970" width="49%">
+[Hyperion-Android](https://github.com/willowtreeapps/Hyperion-Android) | [MIT](http://opensource.org/licenses/MIT) | <img src="https://camo.githubusercontent.com/9f4c0c128421e7694fc533de254f3cf4681d335d/68747470733a2f2f696d616765732e6374666173736574732e6e65742f336374747a6c3469336b31682f314b6869524f473077635369385159613669594749302f30636439336562663561363730313263303965313639363430333265613765362f696d616765326e65772e676966" width="49%">
 [LeakCanary](https://github.com/square/leakcanary) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="https://github.com/square/leakcanary/blob/master/assets/screenshot.png" width="49%">
 [Zelezny](https://github.com/avast/android-butterknife-zelezny) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="https://github.com/avast/android-butterknife-zelezny/blob/master/img/zelezny_animated.gif" width="49%">
 
